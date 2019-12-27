@@ -1,6 +1,6 @@
 # Dynamic Text to Markdown translater
 
-![](markdown-app.png)
+![](public/markdown-app.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
