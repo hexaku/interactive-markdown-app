@@ -1,5 +1,8 @@
 # Dynamic Text to Markdown translater
 
+This is an interactive Markdown translater built with React. All the datas are saved in your browser local storage, if you let the textarea empty, the default data will comeback. 
+I invite you to try :) 
+
 ![](public/markdown-app.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
