@@ -5,7 +5,7 @@ I invite you to try :)
 
 ![](public/markdown-app.png)
 
-To access the app : https://markdown-louxen.netlify.app
+To access the app : https://markdown-hexaku.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
